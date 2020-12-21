@@ -1,0 +1,52 @@
+Question 1. What data type is typically found in databases and spreadsheets?
+Social media content
+Semi-structured data
+Structured data
+Unstructured data
+
+Correct
+Structured data, that is, data that can be organized neatly into rows and columns, is typically well suited for databases and spreadsheets.
+
+
+
+Question 2. Which of these data sources is an example of semi-structured data?
+Documents 
+Network and web logs
+Emails
+Social media feeds
+
+Correct
+Emails are a source of semi-structured data as they have a mix of data with some organizational properties but do not follow a rigid schema.
+
+
+
+Question 3. Which one of the provided file formats is commonly used by APIs and Web Services to return data?  
+XML 
+JSON 
+XLS
+Delimited file 
+
+Correct
+JSON is the format that is most used by APIs and Web Services to return data.
+
+
+
+Question 4. What is one example of the relational databases discussed in the video?
+Flat files 
+SQL Server 
+XML
+Spreadsheet 
+
+Correct
+SQL Server is one of the examples of relational databases shared in the video.
+
+
+
+Question 5. Which of the following languages is one of the most popular querying languages in use today?
+SQL
+Python
+Java
+R
+
+Correct
+SQL, or Structured Query Language, is one of the most popular querying languages in use today.
