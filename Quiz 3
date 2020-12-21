@@ -1,0 +1,38 @@
+Question 1. In the data analyst’s ecosystem, languages are classified by type. What are shell and scripting languages most commonly used for? 
+Building apps 
+Querying data 
+Manipulating data
+Automating repetitive operational tasks
+Answer: Automating repetitive operational tasks
+
+
+Question 2. Which of the following is an example of unstructured data?   
+Zipped files 
+Spreadsheets
+Video and audio files
+XML
+Answer: Video and audio files 
+
+
+Question 3. Which one of these file formats is independent of software, hardware, and operating systems, and can be viewed the same way on any device? 
+Delimited text file
+PDF
+XML
+XLSX
+Answer: PDF
+
+
+Question 4. Which data source can return data in plain text, XML, HTML, or JSON among others? 
+PDF 
+API
+Delimited text file 
+XML  
+Answer: API
+
+
+Question 5. According to the video “Languages for Data Professionals,” which of the programming languages supports multiple programming paradigms, such as object-oriented, imperative, functional, and procedural, making it suitable for a wide variety of use cases?  
+Java  
+PowerShell 
+Unix/Linux Shell  
+Python
+Answer: Python.
